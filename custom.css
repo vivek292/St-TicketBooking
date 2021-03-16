@@ -1,0 +1,78 @@
+.bg{
+	background-color: #e3d6b3;
+}
+
+
+ .ok:hover {
+  background-color: red;
+  color: pink;
+}
+
+.bimg{
+	background-image: url('./assets/img/bg.jpg'); 
+}
+
+.scrollable-menu{
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+
+.form-control2 {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+ 
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.9rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+
+
+
+
+
+
+
+.border2 {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+}
+
+.border3 {
+  padding: 1rem;
+  
+  border: 10px solid #dee2e6;
+  border-radius: 0.25rem;
+}
+
+
+
+
+
+.gr{
+	/*background: linear-gradient(90deg, rgba(0, 0, 153, 0.5) 0%, rgba(0, 190, 214, 0.6) 100%);*/
+	font-family: Cursive;
+	font-size: 2em;
+}
+
+.fs{
+	font-size: 10em;
+	text-align: center;
+	
+}
+
+.c{
+	text-align: center;
+}
